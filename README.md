@@ -10,14 +10,14 @@ Features:
 - Sounds and visual cues to enhance the gaming experience.
 - Keeps track of your high score.
 
-Try it out [here](#insert_link_here) and challenge your memory!
+Try it out [here](#https://subhasou26.github.io/simon-says-game/) and challenge your memory!
 
 ![Game Screenshot](screenshot.png)
 
 ## How to Play
-1. Watch the sequence of colors and sounds as Simon plays.
-2. Repeat the sequence by clicking on the color buttons in the correct order.
-3. The game gets progressively harder as you go. Can you beat your high score?
+1. Frst you have to press any key on keybord.
+2. When any one of the block is blink you have to see the sequence.
+3. After it you have to enter the same sequence 
 
 ## Technologies Used
 - HTML
@@ -30,5 +30,4 @@ To run this game locally, simply clone this repository and open the `index.html`
 ## Contributing
 If you'd like to contribute or report issues, please feel free to open a pull request or create an issue.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
