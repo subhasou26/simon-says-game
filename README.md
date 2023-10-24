@@ -10,7 +10,7 @@ Features:
 - Sounds and visual cues to enhance the gaming experience.
 - Keeps track of your high score.
 
-Try it out [here](#https://subhasou26.github.io/simon-says-game/) and challenge your memory!
+Try it out [here](https://subhasou26.github.io/simon-says-game/) and challenge your memory!
 
 ![Game Screenshot](screenshot.png)
 
