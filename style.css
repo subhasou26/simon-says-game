@@ -39,3 +39,17 @@ h3{
 .userFlash{
     background-color: greenyellow;
 }
+@media(max-width:450px){
+    .btn{
+        height: 100px;
+        width:100px;
+        border-radius: 20%;
+        border: 5px solid black;
+        margin: 2.5rem;
+    }
+    .btn-container{
+        margin-top: 10rem;
+        display: flex;
+        justify-content: center;
+    }
+}
