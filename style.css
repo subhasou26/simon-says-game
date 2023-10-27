@@ -52,4 +52,9 @@ h3{
         display: flex;
         justify-content: center;
     }
+    h3{
+        margin: 0;
+        text-align: center;
+        
+    }
 }
